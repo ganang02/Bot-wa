@@ -1,10 +1,10 @@
 {
-  "ownerNumber": ["62xxxx@s.whatsapp.net"],
-  "ownerName": ["r"],
-  "botName": "Chitanda Eru Bot",
+  "ownerNumber": ["6285693663189@s.whatsapp.net"],
+  "ownerName": ["secret!"],
+  "botName": "Rimuru Botzz",
   "sessionName": "rtwone-md",
-  "pathimg": "./media/Chitanda.jpg",
-  "gamewaktu": 90,
+  "pathimg": "https://ibb.co/3Y44L6B",
+  "gamewaktu": 60,
   "limitCount": 25,
   "gcount": {
 	"prem": 35,
